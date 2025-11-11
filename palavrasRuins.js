@@ -121,8 +121,8 @@ export const PALAVRAS_RUINS = new Set([
     "uma vez",
     "segundo",
     "junto",
-    "José",
-    "Jose",
-    "Francisco",
-    "Mazutti"
+    "josé",
+    "jose",
+    "francisco",
+    "mazutti"
 ]);

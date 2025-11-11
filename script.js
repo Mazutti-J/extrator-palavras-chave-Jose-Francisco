@@ -23,7 +23,6 @@ function processaTexto(texto){
     }
     return ordenadas.slice(0,10);
 
-   
 }
 
 
