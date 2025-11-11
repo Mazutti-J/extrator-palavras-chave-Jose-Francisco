@@ -48,7 +48,8 @@ h1 {
     gap: 0.625rem;
     align-self: stretch;
     border-radius: 0.625rem;
-    background: #FFF;
+    color: #e0d5c5;
+    background: #302b21;
     font-size: 2rem;
 }
 
