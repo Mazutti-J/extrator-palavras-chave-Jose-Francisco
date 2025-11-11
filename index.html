@@ -14,15 +14,10 @@
     <div class="container">
         <h1>Extrator de palavras-chave</h1>
         <textarea id="entrada-de-texto" placeholder="Digite ou cole seu texto aqui..."></textarea>
-        <div class="d-grid gap-2 d-md-block"></div>
-        <button id="botao-palavrachave" data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom"
-            aria-controls="offcanvasBottom">Extrair</button>
-    </div>
-    <div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel">
-        <div class="offcanvas-header">
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close">
+        <div class="d-grid gap-2 d-md-block">
+            <button id="botao-palavrachave">Extrair</button>
         </div>
-        <div class="offcanvas-body small" id="resultado-palavrachave"></div>
+        <div id="resultado-palavrachave"></div>
     </div>
     <script type="module" src="script.js"></script>
 </body>
